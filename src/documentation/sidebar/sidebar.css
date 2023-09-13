@@ -1,0 +1,24 @@
+.sidebar{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+    padding: 1rem;
+    margin-left:3rem;
+    top: 3rem;
+
+}
+.sidebar span {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 18px;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 50px;
+    align-items: center;
+    width: fit-content;
+  }
+  
+  .sidebar span:hover {
+    text-decoration: underline;
+  }

@@ -1,0 +1,30 @@
+.icons-container{
+    display: flex;
+    gap: 4rem;
+}
+
+.icon-wrapper{
+    position: relative;
+}
+
+.icon-badge{
+    position: absolute;
+    right: -8px;
+    top: -6px;
+
+}
+
+.badge-Avatar-Container{
+    display: flex;
+    gap: 5rem;
+}
+
+.avatar-wrapper{
+    position: relative;
+
+}
+
+.avatar-badge{
+    position: absolute;
+    right: 13px;
+}

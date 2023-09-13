@@ -1,0 +1,17 @@
+
+/* .text {
+  
+  }
+   */
+  .text.blue {
+    color: blue;
+  }
+  
+  .text.bold {
+    font-weight: bold;
+  }
+  
+  .text.large {
+    font-size: 24px;
+  }
+    

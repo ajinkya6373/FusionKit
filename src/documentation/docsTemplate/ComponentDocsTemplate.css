@@ -1,0 +1,60 @@
+
+.docs-template{
+    background-color: var(--primary-bg);
+    height: 100;
+}
+.component-docs {
+    font-family: Arial, sans-serif;
+    max-width: 70%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: var(--secondary-bg);
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  pre {
+    background-color: var(--primary-bg);
+    padding: 10px;
+    border-radius: 4px;
+    overflow-x: auto;
+  }
+  
+  code {
+    font-family: Consolas, monospace;
+
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  section:last-child{
+    margin-bottom: 0px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  th,
+  td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: var(--secondary-bg);
+  }
+  
