@@ -3,7 +3,7 @@ function CardContent() {
   return (
     <div className="card-content">
       <div className="product-image">
-        <img src="/Image/Product.jpg" alt="product" />
+        <img src="/Image/product.jpg" alt="product" />
       </div>
       <h3 className="product-name">Arden Grange Adult Large Breed Dog Food</h3>
       <div className="product-details">
